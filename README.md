@@ -9,7 +9,7 @@ It identifies in-demand skills, job categories, location trends, job types, and 
 - 🔥 Top Skills: Python, SQL, AI/ML, Excel
 - 🌍 Top Locations: USA, India, Philippines
 - 💼 Job Type: 89% are full-time roles
-- 💸 100% of jobs include salary info**
+- 💸 100% of jobs include salary info
 
 ---
 
